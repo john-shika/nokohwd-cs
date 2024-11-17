@@ -4,6 +4,8 @@
 - Barcode, QR Code Scanner. (Serial)
 - Receipt, Test Printer. (58mm)
 
+<img alt="Snapshot-NokoHwd-Win64" src="Images/Snapshot-NokoHwd-Win64.jpg" style="width: 480px"/>
+
 ### JSON template (Printer Commands)
 ```json
 {
