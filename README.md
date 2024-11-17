@@ -44,10 +44,24 @@
 }
 ```
 
+### Printer Register Demo
+
+```txt
+UNC PATH \\%COMPUTERNAME%\PANDA ESCPOS
+Driver Generic / Text Only (Windows 64)
+Printer PANDA ESCPOS, USB USB001, VID 0483, PID 070B, REV 0200, Local, Shared
+```
+
 ### Scanner Outputs (QR Code)
 
 ```txt
 Data: https://www.alodev.id/
 Data: https://www.alodev.id/
 Data: https://www.alodev.id/
+```
+
+### Scanner Register Demo
+
+```txt
+PANDA, Serial COM4
 ```
