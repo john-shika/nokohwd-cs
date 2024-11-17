@@ -63,5 +63,5 @@ Data: https://www.alodev.id/
 ### Scanner Register Demo
 
 ```txt
-PANDA, Serial COM4
+Scanner PANDA, USB Serial COM4, VID, 26F1, PID, 5650, REV 0310, Local, Shared
 ```
